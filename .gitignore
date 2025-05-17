@@ -1,0 +1,48 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+*.xcodeproj/project.xcworkspace/
+!default.xcworkspace
+
+# CocoaPods
+Pods/
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+*.xcodeproj/project.xcworkspace/
+!default.xcworkspace
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Build
+build/
+*.app
+*.ipa
+
+# User settings
+*.xcuserdatad/
+*.orig
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+*.xcodeproj/project.xcworkspace/
+!default.xcworkspace
+# CocoaPods
+Pods/
+Podfile.lock
+# Build
+build/
+*.app
+*.ipa
+
+# User settings
+*.xcuserdatad/
+*.orig
