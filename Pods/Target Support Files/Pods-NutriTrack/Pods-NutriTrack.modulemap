@@ -1,0 +1,6 @@
+framework module Pods_NutriTrack {
+  umbrella header "Pods-NutriTrack-umbrella.h"
+
+  export *
+  module * { export * }
+}

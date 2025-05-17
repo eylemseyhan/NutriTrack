@@ -1,0 +1,689 @@
+{
+  "Pilav": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 150,
+    "protein_per_100g": 3,
+    "fat_per_100g": 4,
+    "carbs_per_100g": 25
+  },
+  "Kuru Fasulye": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 100,
+    "protein_per_100g": 7,
+    "fat_per_100g": 0.5,
+    "carbs_per_100g": 17
+  },
+  "Tavuk Göğsü": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 165,
+    "protein_per_100g": 31,
+    "fat_per_100g": 3.6,
+    "carbs_per_100g": 0
+  },
+  "Izgara Köfte": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 250,
+    "protein_per_100g": 17,
+    "fat_per_100g": 20,
+    "carbs_per_100g": 1
+  },
+  "Izgara Tavuk": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 150,
+    "protein_per_100g": 28,
+    "fat_per_100g": 4,
+    "carbs_per_100g": 0
+  },
+  "Izgara Somon": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 208,
+    "protein_per_100g": 20,
+    "fat_per_100g": 13,
+    "carbs_per_100g": 0
+  },
+  "Sebzeli Makarna": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 150,
+    "protein_per_100g": 5,
+    "fat_per_100g": 4,
+    "carbs_per_100g": 22
+  },
+  "Kabak Yemeği": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 80,
+    "protein_per_100g": 2,
+    "fat_per_100g": 5,
+    "carbs_per_100g": 8
+  },
+  "Karnıyarık": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 120,
+    "protein_per_100g": 7,
+    "fat_per_100g": 7,
+    "carbs_per_100g": 10
+  },
+  "Mercimek Çorbası": {
+    "category": "Çorba",
+    "calories_per_100g": 70,
+    "protein_per_100g": 4,
+    "fat_per_100g": 2,
+    "carbs_per_100g": 8
+  },
+  "Ezogelin Çorbası": {
+    "category": "Çorba",
+    "calories_per_100g": 75,
+    "protein_per_100g": 4.5,
+    "fat_per_100g": 2.5,
+    "carbs_per_100g": 9
+  },
+  "Domates Çorbası": {
+    "category": "Çorba",
+    "calories_per_100g": 40,
+    "protein_per_100g": 1,
+    "fat_per_100g": 2,
+    "carbs_per_100g": 5
+  },
+  "Çoban Salata": {
+    "category": "Salata",
+    "calories_per_100g": 30,
+    "protein_per_100g": 1,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 5
+  },
+  "Ton Balıklı Salata": {
+    "category": "Salata",
+    "calories_per_100g": 140,
+    "protein_per_100g": 12,
+    "fat_per_100g": 8,
+    "carbs_per_100g": 5
+  },
+  "Simit": {
+    "category": "Hamur İşi",
+    "calories_per_100g": 270,
+    "protein_per_100g": 9,
+    "fat_per_100g": 7,
+    "carbs_per_100g": 45
+  },
+  "Pide": {
+    "category": "Hamur İşi",
+    "calories_per_100g": 290,
+    "protein_per_100g": 11,
+    "fat_per_100g": 12,
+    "carbs_per_100g": 33
+  },
+  "Lahmacun": {
+    "category": "Hamur İşi",
+    "calories_per_100g": 220,
+    "protein_per_100g": 8,
+    "fat_per_100g": 11,
+    "carbs_per_100g": 22
+  },
+  "Sütlaç": {
+    "category": "Tatlı",
+    "calories_per_100g": 120,
+    "protein_per_100g": 4,
+    "fat_per_100g": 3,
+    "carbs_per_100g": 20
+  },
+  "Kazandibi": {
+    "category": "Tatlı",
+    "calories_per_100g": 180,
+    "protein_per_100g": 4,
+    "fat_per_100g": 6,
+    "carbs_per_100g": 28
+  },
+  "Baklava": {
+    "category": "Tatlı",
+    "calories_per_100g": 430,
+    "protein_per_100g": 6,
+    "fat_per_100g": 23,
+    "carbs_per_100g": 50
+  },
+  "Beyaz Peynir": {
+    "category": "Kahvaltılık",
+    "calories_per_100g": 265,
+    "protein_per_100g": 17,
+    "fat_per_100g": 21,
+    "carbs_per_100g": 1
+  },
+  "Kaşar Peyniri": {
+    "category": "Kahvaltılık",
+    "calories_per_100g": 350,
+    "protein_per_100g": 25,
+    "fat_per_100g": 27,
+    "carbs_per_100g": 2
+  },
+  "Yumurta": {
+    "category": "Kahvaltılık",
+    "calories_per_100g": 155,
+    "protein_per_100g": 13,
+    "fat_per_100g": 11,
+    "carbs_per_100g": 1.1
+  },
+  "Zeytin": {
+    "category": "Kahvaltılık",
+    "calories_per_100g": 115,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 10,
+    "carbs_per_100g": 6
+  },
+  "Ceviz": {
+    "category": "Ara Öğün",
+    "calories_per_100g": 654,
+    "protein_per_100g": 15,
+    "fat_per_100g": 65,
+    "carbs_per_100g": 14
+  },
+  "Badem": {
+    "category": "Ara Öğün",
+    "calories_per_100g": 579,
+    "protein_per_100g": 21,
+    "fat_per_100g": 50,
+    "carbs_per_100g": 22
+  },
+  "Fındık": {
+    "category": "Ara Öğün",
+    "calories_per_100g": 628,
+    "protein_per_100g": 15,
+    "fat_per_100g": 61,
+    "carbs_per_100g": 17
+  },
+  "Granola": {
+    "category": "Ara Öğün",
+    "calories_per_100g": 450,
+    "protein_per_100g": 10,
+    "fat_per_100g": 20,
+    "carbs_per_100g": 60
+  },
+  "Yulaf Ezmesi": {
+    "category": "Ara Öğün",
+    "calories_per_100g": 389,
+    "protein_per_100g": 17,
+    "fat_per_100g": 7,
+    "carbs_per_100g": 66
+  },
+  "Yoğurt (Sade)": {
+    "category": "Ara Öğün",
+    "calories_per_100g": 60,
+    "protein_per_100g": 3.5,
+    "fat_per_100g": 3.3,
+    "carbs_per_100g": 4.7
+  },
+  "Mantı": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 280,
+    "protein_per_100g": 12,
+    "fat_per_100g": 10,
+    "carbs_per_100g": 35
+  },
+  "Hünkar Beğendi": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 220,
+    "protein_per_100g": 18,
+    "fat_per_100g": 12,
+    "carbs_per_100g": 10
+  },
+  "Adana Kebap": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 320,
+    "protein_per_100g": 22,
+    "fat_per_100g": 25,
+    "carbs_per_100g": 2
+  },
+  "İçli Köfte": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 260,
+    "protein_per_100g": 10,
+    "fat_per_100g": 15,
+    "carbs_per_100g": 20
+  },
+  "Şiş Kebap": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 240,
+    "protein_per_100g": 25,
+    "fat_per_100g": 14,
+    "carbs_per_100g": 3
+  },
+  "Döner": {
+    "category": "Ana Yemek",
+    "calories_per_100g": 270,
+    "protein_per_100g": 20,
+    "fat_per_100g": 18,
+    "carbs_per_100g": 5
+  },
+  "Menemen": {
+    "category": "Kahvaltılık",
+    "calories_per_100g": 120,
+    "protein_per_100g": 7,
+    "fat_per_100g": 8,
+    "carbs_per_100g": 5
+  },
+  "Sucuklu Yumurta": {
+    "category": "Kahvaltılık",
+    "calories_per_100g": 220,
+    "protein_per_100g": 12,
+    "fat_per_100g": 18,
+    "carbs_per_100g": 2
+  },
+  "Balık Ekmek": {
+    "category": "Fast Food",
+    "calories_per_100g": 250,
+    "protein_per_100g": 15,
+    "fat_per_100g": 10,
+    "carbs_per_100g": 25
+  },
+  "Lahmacun": {
+    "category": "Fast Food",
+    "calories_per_100g": 280,
+    "protein_per_100g": 10,
+    "fat_per_100g": 12,
+    "carbs_per_100g": 30
+  },
+  "Pizza": {
+    "category": "Fast Food",
+    "calories_per_100g": 300,
+    "protein_per_100g": 12,
+    "fat_per_100g": 15,
+    "carbs_per_100g": 35
+  },
+  "Hamburger": {
+    "category": "Fast Food",
+    "calories_per_100g": 350,
+    "protein_per_100g": 15,
+    "fat_per_100g": 20,
+    "carbs_per_100g": 30
+  },
+  "Kumpir": {
+    "category": "Fast Food",
+    "calories_per_100g": 200,
+    "protein_per_100g": 5,
+    "fat_per_100g": 10,
+    "carbs_per_100g": 25
+  },
+  "Künefe": {
+    "category": "Tatlı",
+    "calories_per_100g": 400,
+    "protein_per_100g": 5,
+    "fat_per_100g": 20,
+    "carbs_per_100g": 50
+  },
+  "Revani": {
+    "category": "Tatlı",
+    "calories_per_100g": 280,
+    "protein_per_100g": 4,
+    "fat_per_100g": 10,
+    "carbs_per_100g": 45
+  },
+  "Kadayıf": {
+    "category": "Tatlı",
+    "calories_per_100g": 350,
+    "protein_per_100g": 5,
+    "fat_per_100g": 15,
+    "carbs_per_100g": 50
+  },
+  "Şekerpare": {
+    "category": "Tatlı",
+    "calories_per_100g": 320,
+    "protein_per_100g": 4,
+    "fat_per_100g": 12,
+    "carbs_per_100g": 50
+  },
+  "Ayran": {
+    "category": "İçecek",
+    "calories_per_100g": 40,
+    "protein_per_100g": 2,
+    "fat_per_100g": 2,
+    "carbs_per_100g": 3
+  },
+  "Şalgam Suyu": {
+    "category": "İçecek",
+    "calories_per_100g": 20,
+    "protein_per_100g": 0.5,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 5
+  },
+  "Türk Kahvesi": {
+    "category": "İçecek",
+    "calories_per_100g": 5,
+    "protein_per_100g": 0.2,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 1
+  },
+  "Çay": {
+    "category": "İçecek",
+    "calories_per_100g": 1,
+    "protein_per_100g": 0,
+    "fat_per_100g": 0,
+    "carbs_per_100g": 0.3
+  },
+  "Taze Sıkılmış Portakal Suyu": {
+    "category": "İçecek",
+    "calories_per_100g": 45,
+    "protein_per_100g": 0.7,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 10
+  },
+  "Smoothie (Meyveli)": {
+    "category": "İçecek",
+    "calories_per_100g": 60,
+    "protein_per_100g": 1,
+    "fat_per_100g": 0.5,
+    "carbs_per_100g": 14
+  },
+  "Maden Suyu": {
+    "category": "İçecek",
+    "calories_per_100g": 0,
+    "protein_per_100g": 0,
+    "fat_per_100g": 0,
+    "carbs_per_100g": 0
+  },
+  "Boza": {
+    "category": "İçecek",
+    "calories_per_100g": 150,
+    "protein_per_100g": 2,
+    "fat_per_100g": 1,
+    "carbs_per_100g": 35
+  },
+  "Sahlep": {
+    "category": "İçecek",
+    "calories_per_100g": 120,
+    "protein_per_100g": 2,
+    "fat_per_100g": 3,
+    "carbs_per_100g": 25
+  },
+  "Mercimek Köftesi": {
+    "category": "Vegan",
+    "calories_per_100g": 180,
+    "protein_per_100g": 9,
+    "fat_per_100g": 6,
+    "carbs_per_100g": 25
+  },
+  "Nohut Salatası": {
+    "category": "Vegan",
+    "calories_per_100g": 160,
+    "protein_per_100g": 7,
+    "fat_per_100g": 5,
+    "carbs_per_100g": 22
+  },
+  "Sebze Sote": {
+    "category": "Vegan",
+    "calories_per_100g": 80,
+    "protein_per_100g": 2,
+    "fat_per_100g": 3,
+    "carbs_per_100g": 12
+  },
+  "Vegan Burger": {
+    "category": "Vegan",
+    "calories_per_100g": 200,
+    "protein_per_100g": 12,
+    "fat_per_100g": 8,
+    "carbs_per_100g": 25
+  },
+  "Zeytinyağlı Enginar": {
+    "category": "Vegan",
+    "calories_per_100g": 90,
+    "protein_per_100g": 3,
+    "fat_per_100g": 5,
+    "carbs_per_100g": 10
+  },
+  "Humus": {
+    "category": "Vegan",
+    "calories_per_100g": 170,
+    "protein_per_100g": 5,
+    "fat_per_100g": 10,
+    "carbs_per_100g": 15
+  },
+  "Falafel": {
+    "category": "Vegan",
+    "calories_per_100g": 220,
+    "protein_per_100g": 8,
+    "fat_per_100g": 12,
+    "carbs_per_100g": 20
+  },
+  "Quinoa Salatası": {
+    "category": "Vegan",
+    "calories_per_100g": 120,
+    "protein_per_100g": 4,
+    "fat_per_100g": 3,
+    "carbs_per_100g": 20
+  },
+  "Avokado Salatası": {
+    "category": "Vegan",
+    "calories_per_100g": 160,
+    "protein_per_100g": 2,
+    "fat_per_100g": 15,
+    "carbs_per_100g": 6
+  },
+  "Badem Sütü": {
+    "category": "Vegan",
+    "calories_per_100g": 40,
+    "protein_per_100g": 1,
+    "fat_per_100g": 3,
+    "carbs_per_100g": 2
+  },
+  "Soya Sütü": {
+    "category": "Vegan",
+    "calories_per_100g": 50,
+    "protein_per_100g": 3,
+    "fat_per_100g": 2,
+    "carbs_per_100g": 4
+  },
+  "Vegan Peynir": {
+    "category": "Vegan",
+    "calories_per_100g": 180,
+    "protein_per_100g": 2,
+    "fat_per_100g": 15,
+    "carbs_per_100g": 5
+  },
+  "Tofu": {
+    "category": "Vegan",
+    "calories_per_100g": 70,
+    "protein_per_100g": 8,
+    "fat_per_100g": 4,
+    "carbs_per_100g": 2
+  },
+  "Tempeh": {
+    "category": "Vegan",
+    "calories_per_100g": 190,
+    "protein_per_100g": 18,
+    "fat_per_100g": 10,
+    "carbs_per_100g": 8
+  },
+  "Chia Pudding": {
+    "category": "Vegan",
+    "calories_per_100g": 120,
+    "protein_per_100g": 4,
+    "fat_per_100g": 7,
+    "carbs_per_100g": 10
+  },
+  "Zeytinyağlı Dolma": {
+    "category": "Vegan",
+    "calories_per_100g": 110,
+    "protein_per_100g": 2,
+    "fat_per_100g": 6,
+    "carbs_per_100g": 15
+  },
+  "Vegan Dondurma": {
+    "category": "Vegan",
+    "calories_per_100g": 150,
+    "protein_per_100g": 2,
+    "fat_per_100g": 8,
+    "carbs_per_100g": 20
+  },
+  "Kuru Meyve Mix": {
+    "category": "Vegan",
+    "calories_per_100g": 300,
+    "protein_per_100g": 3,
+    "fat_per_100g": 1,
+    "carbs_per_100g": 75
+  },
+  "Kinoa Tabule": {
+    "category": "Vegan",
+    "calories_per_100g": 130,
+    "protein_per_100g": 4,
+    "fat_per_100g": 5,
+    "carbs_per_100g": 20
+  },
+  "Vegan Çikolata": {
+    "category": "Vegan",
+    "calories_per_100g": 550,
+    "protein_per_100g": 5,
+    "fat_per_100g": 35,
+    "carbs_per_100g": 50
+  },
+  "Pizza Margherita": {
+      "category": "Fast Food",
+      "calories_per_100g": 280,
+      "protein_per_100g": 10,
+      "fat_per_100g": 14,
+      "carbs_per_100g": 35
+    },
+    "Spagetti Bolognese": {
+      "category": "Ana Yemek",
+      "calories_per_100g": 200,
+      "protein_per_100g": 15,
+      "fat_per_100g": 10,
+      "carbs_per_100g": 25
+    },
+    "Sebzeli Sote": {
+      "category": "Vegan",
+      "calories_per_100g": 150,
+      "protein_per_100g": 5,
+      "fat_per_100g": 7,
+      "carbs_per_100g": 20
+    },
+    "Fettucine Alfredo": {
+      "category": "Fast Food",
+      "calories_per_100g": 300,
+      "protein_per_100g": 7,
+      "fat_per_100g": 18,
+      "carbs_per_100g": 30
+    },
+    "Tavuk Caesar Salata": {
+      "category": "Salata",
+      "calories_per_100g": 210,
+      "protein_per_100g": 20,
+      "fat_per_100g": 12,
+      "carbs_per_100g": 5
+    },
+    "Sebze Çorbası": {
+      "category": "Çorba",
+      "calories_per_100g": 50,
+      "protein_per_100g": 2,
+      "fat_per_100g": 1,
+      "carbs_per_100g": 10
+    },
+    "Dana Steak": {
+      "category": "Ana Yemek",
+      "calories_per_100g": 250,
+      "protein_per_100g": 22,
+      "fat_per_100g": 20,
+      "carbs_per_100g": 0
+    },
+    "Falafel Dürüm": {
+      "category": "Vegan",
+      "calories_per_100g": 230,
+      "protein_per_100g": 9,
+      "fat_per_100g": 12,
+      "carbs_per_100g": 25
+    },
+    "Köfte": {
+      "category": "Ana Yemek",
+      "calories_per_100g": 250,
+      "protein_per_100g": 17,
+      "fat_per_100g": 20,
+      "carbs_per_100g": 1
+    },
+    "Kumpir": {
+      "category": "Fast Food",
+      "calories_per_100g": 200,
+      "protein_per_100g": 5,
+      "fat_per_100g": 10,
+      "carbs_per_100g": 25
+    },
+    "Zeytinyağlı Enginar": {
+      "category": "Vegan",
+      "calories_per_100g": 90,
+      "protein_per_100g": 3,
+      "fat_per_100g": 5,
+      "carbs_per_100g": 10
+    },
+    "Chia Puding": {
+        "category": "Tatlı",
+        "calories_per_100g": 120,
+        "protein_per_100g": 4,
+        "fat_per_100g": 7,
+        "carbs_per_100g": 10
+      },
+      "Yulaflı Kurabiye": {
+        "category": "Tatlı",
+        "calories_per_100g": 150,
+        "protein_per_100g": 5,
+        "fat_per_100g": 6,
+        "carbs_per_100g": 20
+      },
+      "Avokadolu Çikolata Mousse": {
+        "category": "Tatlı",
+        "calories_per_100g": 180,
+        "protein_per_100g": 4,
+        "fat_per_100g": 12,
+        "carbs_per_100g": 14
+      },
+      "Meyveli Smoothie": {
+        "category": "İçecek",
+        "calories_per_100g": 60,
+        "protein_per_100g": 1,
+        "fat_per_100g": 0.5,
+        "carbs_per_100g": 14
+      },
+      "Yeşil Detoks Smoothie": {
+        "category": "İçecek",
+        "calories_per_100g": 45,
+        "protein_per_100g": 2,
+        "fat_per_100g": 1,
+        "carbs_per_100g": 8
+      },
+      "Badem Sütü": {
+        "category": "İçecek",
+        "calories_per_100g": 40,
+        "protein_per_100g": 1,
+        "fat_per_100g": 3,
+        "carbs_per_100g": 2
+      },
+      "Soya Sütü": {
+        "category": "İçecek",
+        "calories_per_100g": 50,
+        "protein_per_100g": 3,
+        "fat_per_100g": 2,
+        "carbs_per_100g": 4
+      },
+      "Taze Sıkılmış Havuç Suyu": {
+        "category": "İçecek",
+        "calories_per_100g": 41,
+        "protein_per_100g": 1,
+        "fat_per_100g": 0.2,
+        "carbs_per_100g": 10
+      },
+      "Limonlu Su": {
+        "category": "İçecek",
+        "calories_per_100g": 5,
+        "protein_per_100g": 0.1,
+        "fat_per_100g": 0,
+        "carbs_per_100g": 1
+      },
+      "Kakao ve Bademli Puding": {
+        "category": "Tatlı",
+        "calories_per_100g": 150,
+        "protein_per_100g": 5,
+        "fat_per_100g": 10,
+        "carbs_per_100g": 12
+      },
+      "Chia Tohumlu Yoğurt": {
+        "category": "Tatlı",
+        "calories_per_100g": 120,
+        "protein_per_100g": 6,
+        "fat_per_100g": 7,
+        "carbs_per_100g": 9
+      }
+  
+}
