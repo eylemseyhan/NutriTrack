@@ -12,7 +12,7 @@
 - ☁️ Firestore ile bulutta veri saklama
 - 📊 Günlük özet ve geçmiş günleri takip edebilme
 - 🎯 Hedef belirleme ve ilerleme kontrolü
-- 🧪 Birim test desteği (XCTest)
+
 
 ---
 
@@ -29,10 +29,9 @@
 ## 📸 Ekran Görüntüleri
 
 <!--
-Ekran görüntülerini `screenshots` klasörüne ekleyerek aşağıdaki gibi kullanabilirsiniz:
 
-![Login](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
+
+
 -->
 
 ---
