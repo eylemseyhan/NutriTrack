@@ -22,7 +22,7 @@
 - `Firebase Authentication`
 - `Firebase Firestore`
 - `CocoaPods`
-- `XCTest` (Unit test)
+
 
 ---
 
